@@ -1,7 +1,7 @@
 {
-  "name": "ui-select-infinity",
-  "version": "0.1.6",
-  "homepage": "https://github.com/hyzhak/ui-select-infinity",
+  "name": "infinity-select",
+  "version": "0.1.7",
+  "homepage": "https://github.com/spajdo/infinity-select",
   "authors": [
     "Eugene Krevenets <ievgenii.krevenets@gmail.com> (http://hyzhak.github.io)"
   ],
